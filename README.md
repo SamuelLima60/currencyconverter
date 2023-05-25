@@ -1,16 +1,19 @@
-# currencyconverter
+# Currency Converter
 
-A new Flutter project.
+O Conversor de Moedas é um projeto desenvolvido com o objetivo de fornecer uma solução simples e eficiente para conversões entre diferentes moedas. Com essa aplicação, os usuários podem obter rapidamente o equivalente de uma quantia em uma moeda para outra moeda desejada.
 
-## Getting Started
+![Pagina Home](https://raw.githubusercontent.com/SamuelLima60/quizapp/main/Captura%20de%20tela%202023-04-18%20204834.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Requisitos prévios
+ - Flutter SDK instalado em seu computador
+ - Visual Studio Code ou outra IDE de sua escolha
+ - Conhecimento básico de programação em Dart
+ 
+## Instruções de configuração
+ 1. Clone o repositório do GitHub para seu computador usando o comando ```git clone https://github.com/SamuelLima60/currencyconverter.git```
+ 2. Abra o projeto no Visual Studio Code ou na IDE de sua escolha.
+ 3. Instale as dependências necessárias executando o comando ```flutter pub get``` no terminal.
+ 
+## Iniciando o aplicativo
+ 1. Conecte seu dispositivo móvel ou inicie um emulador.
+ 2. Clique no botão "Run" ou pressione F5 para iniciar o aplicativo.
