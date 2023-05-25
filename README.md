@@ -2,7 +2,8 @@
 
 O Conversor de Moedas é um projeto desenvolvido com o objetivo de fornecer uma solução simples e eficiente para conversões entre diferentes moedas. Com essa aplicação, os usuários podem obter rapidamente o equivalente de uma quantia em uma moeda para outra moeda desejada.
 
-![Pagina Home](https://raw.githubusercontent.com/SamuelLima60/quizapp/main/Captura%20de%20tela%202023-04-18%20204834.png)
+![Pagina Home](https://raw.githubusercontent.com/SamuelLima60/currencyconverter/main/Captura%20de%20tela%202023-05-24%20204524.png)
+
 
 ## Requisitos prévios
  - Flutter SDK instalado em seu computador
